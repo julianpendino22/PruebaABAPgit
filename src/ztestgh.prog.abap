@@ -7,4 +7,4 @@ REPORT ZTESTGH.
 
 * Programa prueba ABAP GIT en IDP
 
-* Rama1 con cambios
+* Rama
